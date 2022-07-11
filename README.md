@@ -11,7 +11,7 @@ player_random.cpp 會隨機下棋
 
 
 ## Algorithm 設計指導
-詳見document\gobang_algodesign_intro.pdf
+詳見document\gobang_algo_design_intro.pdf
 
 ### 設計步驗
 
@@ -34,14 +34,14 @@ minimax
 
 - 推演未來n 步的state value function, 再揀n步後對自己最高分的choice,由後推返上前決定呢一步要點行
 
-詳見document\gobang_design_intro.pdf P.20-36
+詳見document\document\gobang_algo_design_intro.pdf P.20-36
 
 alpha-beta pruning
 
 - 同minimax一樣,但多一步判斷冇用的branch提早斬走
 
 
-詳見document\gobang_design_intro.pdf P.37
+詳見document\gobang_algo_design_intro.pdf P.37
 
 ## Environment Setting
 
