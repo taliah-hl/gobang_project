@@ -43,7 +43,7 @@ alpha-beta pruning
 
 詳見gobang_algo_design_intro.pdf P.37
 
-### minimax and al[ha beta pruning explain
+### minimax and alpha beta pruning explain
 
 https://www.youtube.com/watch?v=l-hh51ncgDI
 
