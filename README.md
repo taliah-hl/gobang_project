@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=l-hh51ncgDI
 
 ## Environment Setting
 
-如何compile -> 需要makefile, 詳見 document\gobang_env_setting.pdf
+如何compile -> 需要makefile, 詳見 gobang_env_setting.pdf
 
 
 
