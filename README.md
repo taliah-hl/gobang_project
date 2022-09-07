@@ -52,5 +52,9 @@ https://www.youtube.com/watch?v=l-hh51ncgDI
 如何compile -> 需要makefile, 詳見 gobang_env_setting.pdf
 
 
+### Explain Video
 
+https://youtu.be/vNKxj1GNorE
+
+https://youtu.be/3lVqrS_8ock
 
